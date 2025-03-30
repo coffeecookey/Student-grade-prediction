@@ -5,8 +5,10 @@ A machine learning project which utilizes linear regression to predict students'
 ## Installation and Setup
 
 -Clone the repository
-` git clone https://github.com/coffeecookey/student-grade-prediction.git
-  cd student-grade-prediction`
+<br/>
+` git clone https://github.com/coffeecookey/student-grade-prediction.git`
+<br/>
+`cd student-grade-prediction`
 
 -install numpy, pandas, matplotlib, scikit-learn
 
