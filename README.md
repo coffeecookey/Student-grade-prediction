@@ -1,6 +1,16 @@
 # Student-grade-prediction
 
-A machine learning project which utilizes linear regression to predict students' final grade (G3). The dataset used is *student-mat.csv* and model is trained using scikit-learn.
+A machine learning project which utilizes linear regression to predict students' final grade (G3). The dataset used is `student-mat.csv` and model is trained using scikit-learn.
+
+## Installation and Setup
+
+-Clone the repository
+` git clone https://github.com/coffeecookey/student-grade-prediction.git
+  cd student-grade-prediction`
+
+-install numpy, pandas, matplotlib, scikit-learn
+
+-install the dataset `student-mat.csv`
 
 ## Features Used
 
